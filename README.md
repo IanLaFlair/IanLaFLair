@@ -3,11 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Tech+Enthusiast;Blockchain+Developer;Kotlin%20|%20Android%20|%20OOP%20&center=true&width=500&height=50"></a>
 </p>
 
-- 🔭 I’m currently working on Pituku.id as Chief Technology Officer
-- 🌱 I’m Previously Working on Nanovest as Blockchain Engineer ...
-- 👯 I’m Previously Working on Skynet Indonesia as Android Dev Lead ...
-- 🤔 I’m currently learning Web3 & Blockchain
-- 💬 Ask me about Blockchain & Android
+- 🔭 Web3, Blockchain, AI, LLM, Automation Workflow, SaaS
 
 ### 🛠 &nbsp;Tech Stack
 
